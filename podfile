@@ -1,0 +1,11 @@
+platform :ios, ‘9.0’
+
+target 'JKBasicKit' do
+    
+pod "AFNetworking"
+pod "SDWebImage"
+pod "MJRefresh"
+pod "PureCamera"
+pod "TXScrollLabelView"
+
+end
