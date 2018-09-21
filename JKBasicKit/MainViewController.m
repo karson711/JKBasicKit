@@ -24,7 +24,6 @@
 @implementation MainViewController
 
 - (void)viewWillAppear:(BOOL)animated {
-    
     [super viewWillAppear:YES];
     
     //设置标题颜色
